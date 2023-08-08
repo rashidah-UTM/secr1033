@@ -1,7 +1,3 @@
-# secr1033
-Sure, here's a sample introduction for a Cryptography course information using a markdown file:
-
-```markdown
 # Cryptography Course
 
 Welcome to the Cryptography Course! This course is designed to provide you with a comprehensive understanding of the fascinating world of cryptography. Cryptography is the art and science of securing communication and data through the use of mathematical techniques and algorithms.
@@ -47,6 +43,3 @@ We look forward to having you in the class!
 
 ---
 **Note:** Course details are subject to change. Please refer to the course website for the most up-to-date information.
-```
-
-Feel free to modify and customize this introduction according to your specific course details and requirements.
